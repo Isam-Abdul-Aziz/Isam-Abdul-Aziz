@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding in Python, Blockchain Technology, and Web Development (preferrably Full-Stack)
 - 🌱 I’m currently learning to code in Python, Javascript, C++, C, and Java and plan to learn Solidity soon
 - 💞️ I’m looking to collaborate on Capstone Projects and any other Interesting Idea applying Python language
-- 📫 How to reach me : Mobile No. (+91)89696 92882
-- email : isamaziz256@gmail.com
-- LinkedIn : https://www.linkedin.com/in/isam-aziz-434180250/
+- 📫 How to reach me :
+-     Mobile No. (+91)89696 92882
+-     email : isamaziz256@gmail.com
+-     LinkedIn : https://www.linkedin.com/in/isam-aziz-434180250/
