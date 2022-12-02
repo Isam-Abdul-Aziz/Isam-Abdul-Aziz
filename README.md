@@ -1,11 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Isam Abdul Aziz</h1>
-<h3 align="center">Freshman at Vellore Institute of Technology</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.oWQSbLqrhnjp83G0sRPijwAAAA?pid=ImgDet&rs=1")
+<h3 align="center">I Love To Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamisam&label=Profile%20views&color=0e75b6&style=flat" alt="iamisam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamisam" alt="iamisam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/isamabdulaziz1" target="blank"><img src="https://img.shields.io/twitter/follow/isamabdulaziz1?logo=twitter&style=for-the-badge" alt="isamabdulaziz1" /></a> </p>
 
