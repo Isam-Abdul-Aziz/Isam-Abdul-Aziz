@@ -56,8 +56,9 @@
 
 <a>
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-</a>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+</a>
+
 
 
 <br>
