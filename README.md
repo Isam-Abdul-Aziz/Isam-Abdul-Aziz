@@ -54,7 +54,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamisam&theme=synthwave" />
 </a>
 <br>
-<h2 align="right">Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+<h2>Some Programming Humor for you <img align ='bottom' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
