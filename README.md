@@ -67,7 +67,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/iamisam/iamisam/output/snake.svg" alt="Snake animation" />
-
-###
